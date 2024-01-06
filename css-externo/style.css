@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: brown;
+}
+
+h2{
+    color: rgb(165, 96, 96);
+}
+
+p{
+    text-align: justify;
+}
